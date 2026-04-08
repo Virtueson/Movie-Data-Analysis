@@ -98,13 +98,6 @@ jupyter notebook
 
 ---
 
-## 📁 Project Structure
-
-```id="tree123"
-├── movie_data analysis.ipynb
-├── dataset.csv
-└── README.md
-```
 
 ---
 
@@ -118,22 +111,3 @@ Some typical insights you may find:
 * Ratings tend to cluster within a specific range
 
 ---
-
-## 📌 Future Improvements
-
-* Add machine learning models for prediction
-* Perform deeper statistical analysis
-* Build an interactive dashboard
-* Use larger and more recent datasets
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
